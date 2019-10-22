@@ -1,5 +1,4 @@
 # Relating News Data to Market Movement               
-# Xuhui Zhou
 
 As the efficient-market hypothesis points, asset prices fully reflect all available information. There are three common forms in which the efficient-market hypothesis is commonly stated: weak-form efficiency, semi-strong-form efficiency and strong-form efficiency. The weak-form states that developing trading strategies from public information will not produce excess profits. 
 
